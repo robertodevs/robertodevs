@@ -1,4 +1,5 @@
-### Hi there, My name is ROBERTO from 🇬🇹 👋
+### Hi there, 
+### I'm ROBERTO from 🇬🇹 👋
 
 - 🔭 I’m currently working on ADYTON PBC as a Mobile Engineer.
 - 🌱 I’m currently learning Motion Design.
