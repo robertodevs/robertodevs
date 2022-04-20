@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there, My name is ROBERTO from 🇬🇹 👋
 
-- 🔭 I’m currently working on ADYTON PBC as a Mobile Engineer
-- 🌱 I’m currently learning Motion Design
+- 🔭 I’m currently working on ADYTON PBC as a Mobile Engineer.
+- 🌱 I’m currently learning Motion Design.
+- ⭐ I'm a sharing content on TikTok and Instagram. Follow me at @robertodevs.
 - ⚡ Fun fact: I am a musician and I truly enjoy learn new things. 
 
 <!--
